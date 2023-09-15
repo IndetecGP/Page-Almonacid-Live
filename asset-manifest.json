@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Page-Almonacid-Live/static/css/main.ee08ba31.css",
-    "main.js": "/Page-Almonacid-Live/static/js/main.e101ae22.js",
+    "main.js": "/Page-Almonacid-Live/static/js/main.987065cb.js",
     "index.html": "/Page-Almonacid-Live/index.html",
     "main.ee08ba31.css.map": "/Page-Almonacid-Live/static/css/main.ee08ba31.css.map",
-    "main.e101ae22.js.map": "/Page-Almonacid-Live/static/js/main.e101ae22.js.map"
+    "main.987065cb.js.map": "/Page-Almonacid-Live/static/js/main.987065cb.js.map"
   },
   "entrypoints": [
     "static/css/main.ee08ba31.css",
-    "static/js/main.e101ae22.js"
+    "static/js/main.987065cb.js"
   ]
 }
